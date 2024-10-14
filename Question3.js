@@ -1,11 +1,8 @@
 // Plaindrome Number
 
-const isPlaindrome = () => {
-  let x = -121;
-
+const isPlaindrome = (x) => {
   let copy = x;
   let reverse = 0;
-
   if (x < 0) {
     return false;
   }
