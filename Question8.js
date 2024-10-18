@@ -5,7 +5,7 @@ let val = 2;
 for (let i = 0; i < nums.length; i++) {
   if (nums[i] === val) {
     nums.splice(i, 1);
-    i--; // for avoding sking in elements
+    i--; // for avoding skiping in elements
   }
 }
 console.log(nums);
