@@ -1,4 +1,4 @@
-// Two Sum
+// 1. Two Sum
 
 function twoSum() {
   let nums = [2, 7, 11, 15];

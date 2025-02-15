@@ -1,4 +1,4 @@
-// Plaindrome Number
+// 9. Plaindrome Number
 
 const isPlaindrome = (x) => {
   let copy = x;

@@ -1,3 +1,4 @@
+// 26. Remove Duplicates from Sorted Array
 const arr = [1, 1, 2, 2, 2, 3, 3, 4];
 
 let count = 0;
